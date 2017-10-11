@@ -1,18 +1,18 @@
 body{
   background: rgb(250;250;250);
   color: black;
-  font-size: 16px;
+  font-size: 25px;
   font-family: 'Roboto', sans-serif;
 }
 h1{
   font-family: 'Manuale', serif;
   color: black;  
   font-weight: bolder;
-  font-size: 50px;
+  font-size: 100px;
 }
 h2 {
   font-family: 'Manuale', serif;
-  color: rgb(150,150,150);
+  color: rgb(16,20,79);
   font-weight: bolder;
   font-size: 20px;
 }
@@ -29,7 +29,7 @@ a:hover {
 	background-size: cover;
 	font-color: white;
 	text-align: center;
-	padding: 70px
+	padding: 300px
 }
 
 #banner h1 {
@@ -37,16 +37,19 @@ a:hover {
 }
 
 #banner p {
-	color: rgb(217,115,101);
+	color: white;
 }
 
 #banner a{
-	color: rgb(150,150,150);
+	color: rgb(16,20,79);
 }
 .card{
 text-align: center;
 padding: 50px;
 font-color : black;
+border: 3px solid rgb(150,150,150);
+padding: 5px;
+border-radius: 7px;
 }
 
 .card h1 {
@@ -54,7 +57,7 @@ font-color : black;
 }
 
 .card p {
-	color : rgb(217,115,101);
+	color : rgb(16,20,79);
 }
 
 #footer{
@@ -84,4 +87,8 @@ background-size: cover;
 	color: red
 }
 
-
+.picto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+}

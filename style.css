@@ -25,19 +25,19 @@ a:hover {
 }
 
 #banner{
-	background-image: url("images/485513336.jpg");
+	background-image: url("images/espace.jpg");
 	background-size: cover;
-	font-color: rgb(217,115,101);
+	font-color: white;
 	text-align: center;
 	padding: 70px
 }
 
 #banner h1 {
-	color: rgb(217,115,101);
+	color: white;
 }
 
 #banner p {
-	color: black;
+	color: rgb(217,115,101);
 }
 
 #banner a{

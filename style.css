@@ -8,11 +8,11 @@ h1{
   font-family: 'Manuale', serif;
   color: black;  
   font-weight: bolder;
-  font-size: 50px;
+  font-size: 100px;
 }
 h2 {
   font-family: 'Manuale', serif;
-  color: rgb(150,150,150);
+  color: rgb(16,20,79);
   font-weight: bolder;
   font-size: 20px;
 }
@@ -29,7 +29,7 @@ a:hover {
 	background-size: cover;
 	font-color: white;
 	text-align: center;
-	padding: 70px
+	padding: 300px
 }
 
 #banner h1 {
@@ -37,24 +37,27 @@ a:hover {
 }
 
 #banner p {
-	color: rgb(217,115,101);
+	color: white;
+	font-size: 25px;
 }
 
 #banner a{
-	color: rgb(150,150,150);
+	color: rgb(16,20,79);
 }
 .card{
 text-align: center;
-padding: 50px;
+padding: 3px;
 font-color : black;
+border: 2px solid rgb(150,150,150);
+border-radius: 7px
 }
 
 .card h1 {
-	color: pink
+	color: rgb(16,20,79);
 }
 
 .card p {
-	color : rgb(217,115,101);
+	color : rgb(16,20,79);
 }
 
 #footer{
@@ -66,8 +69,8 @@ border-top: 30px
 }
 
 #footer a {
-color : rgb(150,150,150);
-font-size: 30px;
+color : rgb(16,20,79);
+font-size: 28px;
 }
 
 #mylist {
@@ -80,8 +83,8 @@ background-size: cover;
 	font-color: white;
 }
 
-.container {
-	color: red
+.icon{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-

@@ -1,0 +1,83 @@
+body{
+  background: rgb(250;250;250);
+  color: black;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-family: 'Manuale', serif;
+  color: black;  
+  font-weight: bolder;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Manuale', serif;
+  color: rgb(150,150,150);
+  font-weight: bolder;
+  font-size: 20px;
+}
+a {
+  color: grey;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+	background-image: url("images/485513336.jpg");
+	background-size: cover;
+	font-color: rgb(217,115,101);
+	text-align: center;
+	padding: 70px
+}
+
+#banner h1 {
+	color: rgb(217,115,101);
+}
+
+#banner p {
+	color: black;
+}
+
+#banner a{
+	color: rgb(150,150,150);
+}
+.card{
+text-align: center;
+padding: 50px;
+font-color : black;
+}
+
+.card h1 {
+	color: pink
+}
+
+.card p {
+	color : rgb(217,115,101);
+}
+
+#footer{
+background-color: white;
+font-color: black
+padding-bottom : 150px;
+text-align: center;
+border-top: 30px
+}
+
+#footer a {
+color : rgb(150,150,150);
+font-size: 30px;
+}
+
+#mylist {
+margin-bottom: 0;
+background-size: cover;
+}
+
+.btn {
+	color: black
+	font-color: white;
+}
+
+

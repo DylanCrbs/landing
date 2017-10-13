@@ -25,7 +25,7 @@ a:hover {
 }
 
 #banner{
-	background-image: url("images/espace.jpg");
+	background-image: url("images/source.gif");
 	background-size: cover;
 	font-color: white;
 	text-align: center;
@@ -91,4 +91,8 @@ background-size: cover;
     display: block;
     margin-left: auto;
     margin-right: auto }
+}
+
+.cta{
+  padding: 30px;
 }
